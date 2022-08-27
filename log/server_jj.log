@@ -1,0 +1,3 @@
+2022-08-26 18:32:21 INFO  PruebaUnidad3JjP2Application:19 - hola mundo
+2022-08-26 20:09:32 INFO  PruebaUnidad3JjP2Application:63 - producto Criteria APIProducto [ codigoBarras=123456, nombre=Leche, stock=5]
+2022-08-26 20:28:17 INFO  PruebaUnidad3JjP2Application:63 - producto Criteria API: Producto [ codigoBarras=123456, nombre=Leche, stock=10]
